@@ -59,7 +59,7 @@ const Index = () => {
                 rel="noopener noreferrer"
                 className="font-medium transition-colors hover:text-primary"
               >
-                KARTHIK LAL
+                SANA
               </a>
             </p>
           </div>
